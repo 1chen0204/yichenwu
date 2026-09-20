@@ -30,6 +30,8 @@
 6. 等待 GitHub 生成页面
 7. 访问 `https://<你的用户名>.github.io/<仓库名>/`
 
+> 若你的用户名是 yichenwu，则站点地址通常为 `https://yichenwu.github.io/`。
+
 ## 本地预览
 
 在项目目录中运行：
